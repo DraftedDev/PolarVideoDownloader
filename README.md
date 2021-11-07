@@ -4,8 +4,6 @@
 
 <hr>
 
-<h4>
-
 Download videos from Youtube and Soundtracks from SoundClouds. <br>
 Made by DraftedDev (drafteddev.github.io) with ElectronJS.
 Links to libraries PolarDownloader uses: <br>
@@ -48,5 +46,3 @@ This software is not designed for circumventing the technological measures emplo
 Do only download content you are permitted to access!
 <br><br>
 </u>
-
-</h4>
