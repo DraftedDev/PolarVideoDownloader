@@ -4,7 +4,7 @@
 
 <hr>
 
-<h5>
+<h4>
 
 Download videos from Youtube and Soundtracks from SoundClouds. <br>
 Made by DraftedDev (drafteddev.github.io) with ElectronJS.
@@ -49,4 +49,4 @@ Do only download content you are permitted to access!
 <br><br>
 </u>
 
-</h5>
+</h4>
