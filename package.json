@@ -1,0 +1,20 @@
+{
+  "name": "polarvideodownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . --enable-logging"
+  },
+  "author": "DraftedDev",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^15.3.0"
+  },
+  "dependencies": {
+    "soundcloud-downloader": "^1.0.0",
+    "spdl-core": "^2.0.2",
+    "website-scraper": "^4.2.3",
+    "ytdl-core": "^4.9.1"
+  }
+}

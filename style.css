@@ -1,0 +1,66 @@
+#title {
+    text-align: center;
+    background-color: rgb(139, 139, 247);
+}
+
+
+/* Youtube */
+#youtube-jumbo {
+    background-color: rgba(248, 64, 64, 0.849);
+    text-align: center;
+}
+
+#youtube-btn {
+    border: 0px;
+    width: 16.5vw;
+    height: 7vh;
+}
+
+
+/* Soundcloud */
+#soundcloud-jumbo {
+    background-color: rgba(253, 148, 78, 0.884);
+    text-align: center;
+}
+
+#soundcloud-btn {
+    border: 0px;
+    width: 16.5vw;
+    height: 6vh;
+}
+
+
+/* Website */
+#website-jumbo {
+    background-color: rgba(67, 125, 252, 0.884);
+    text-align: center;
+}
+
+#website-btn {
+    border: 0px;
+    width: 20vw;
+    height: 6.5vh;
+}
+
+#website-dir {
+    width: 70vw;
+    height: 4vh;
+    font-size: 3vh;
+}
+
+
+
+/* Other stuff */
+#videoUrl {
+    width: 70vw;
+    height: 4vh;
+    font-size: 3vh;
+}
+
+button {
+    font-size: 135%;
+}
+
+body {
+    overflow-x: hidden;
+}

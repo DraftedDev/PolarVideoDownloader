@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content=
+    "default-src 'self'; 
+    script-src 'self';
+    connect-src https://*;"> 
+
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'"> 
+
+    
+    <script src="jquery\jquery-3.6.0.js"></script>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="bootstrap\bootstrap.min.css">
+
+    <!-- Custom stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+    <title>Polar Video Downloader</title>
+  
+  </head>
+
+  <body>
+
+    <script src="jquery\jquery-3.6.0.js"></script>
+    <script src="bootstrap\bootstrap.bundle.min.js"></script>
+
+    <!-- Application Content Start -->
+
+
+    <div class="jumbotron" id="title">
+      <h1 class="display-4">Polar Downloader</h1>
+      <hr class="my-1">
+      <p class="lead">Download all kinds of videos and soundtracks!</p>
+
+      <input id="videoUrl" placeholder="Input URL">
+    </div>
+
+
+    <div class="jumbotron" id="youtube-jumbo">
+      <h1 class="display-3">Youtube</h1>
+      <hr class="my-1">
+      
+      <button id="youtube-btn">Download mp4</button>
+      <br>
+    
+    </div>
+
+
+    <div class="jumbotron" id="soundcloud-jumbo">
+      <h1 class="display-3">Soundcloud</h1>
+      <hr class="my-1">
+      
+      <button id="soundcloud-btn">Download mp3</button>
+    </div>
+
+
+    <div class="jumbotron" id="website-jumbo">
+      <h1 class="display-3">Website</h1>
+      <hr class="my-1">
+      
+      <button id="website-btn">Download website</button><br><br>
+      <input type="text" id="website-dir" placeholder="Directory to the website">
+    </div>
+
+
+    <!-- Application Content End -->
+
+    
+    <script src="renderer.js"></script>
+
+  </body>
+</html>
