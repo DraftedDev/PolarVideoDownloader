@@ -1,6 +1,6 @@
 <hr>
 
-<h2>Polar Video Downloader</h2>
+## Polar Video Downloader
 
 <hr>
 
