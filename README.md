@@ -16,9 +16,7 @@ Links to libraries PolarDownloader uses: <br>
 
 <br>
 
-<u>
-    How to use...
-</u>
+<u>How to use...</u>
 
 <br>
 ...Soundcloud downloader:<br>
