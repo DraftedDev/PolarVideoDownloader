@@ -16,20 +16,23 @@ Links to libraries PolarDownloader uses: <br>
 
 <br>
 
-<u>How to use...</u>
+<u>
+    How to use...
+</u>
+
 <br>
-<u>...Soundcloud downloader:</u><br>
+...Soundcloud downloader:<br>
     1. Input the URL to the Soundcloud track in the input field above.<br>
     2. Click on the download button on the Soundcloud section.<br>
     -> The file will be downloaded and saved in the directory of the app.<br>
 <br>
-<u>...Youtube downloader:</u><br>
+...Youtube downloader:<br>
     1. Input the URL to the Youtube video in the input field above.<br>
     2. Click on the download button on the Youtube section.<br>
     -> The file will be downloaded and saved in the directory of the app.<br>
     NOTE: Downloading Youtube videos may take a while.<br>
 <br>
-<u>...Website downloader:</u><br>
+...Website downloader:<br>
     1. Input URL to the website in the input field above.<br>
     2. Input the not-yet-existing directory the website should be saved in.<br>
     3. Click on the download button on the Website section.<br>
