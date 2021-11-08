@@ -30,9 +30,22 @@
 }
 
 
+/* Vimeo */
+#vimeo-jumbo {
+    background-color: rgb(69, 91, 221);
+    text-align: center;
+}
+
+#vimeo-btn {
+    border: 0px;
+    width: 16.5vw;
+    height: 6vh;
+}
+
+
 /* Website */
 #website-jumbo {
-    background-color: rgba(67, 125, 252, 0.884);
+    background-color: rgba(19, 183, 224, 0.884);
     text-align: center;
 }
 

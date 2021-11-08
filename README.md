@@ -12,6 +12,7 @@ Links to libraries PolarDownloader uses: <br>
 - https://github.com/fent/node-ytdl-core
 - https://github.com/zackradisic/node-soundcloud-downloader
 - https://github.com/website-scraper/node-website-scraper
+- https://github.com/sub2u/vimeo-downloader
 
 <hr>
 

@@ -19,9 +19,6 @@ youtube_btn.onclick = (() => onYoutubeClick())
 soundcloud_btn.onclick = (() => onSoundCloudClick())
 website_btn.onclick = (() => onWebsiteClick())
 
-//debug
-videoUrl.value = 'https://www.youtube.com/watch?v=G9Otw12OUvE&t=19s'
-
 
 //download entire website
 async function onWebsiteClick() {
