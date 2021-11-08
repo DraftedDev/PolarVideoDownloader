@@ -9,7 +9,8 @@
   "author": "DraftedDev",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^15.3.0"
+    "electron": "^15.3.0",
+    "electron-packager": "^15.4.0"
   },
   "dependencies": {
     "soundcloud-downloader": "^1.0.0",

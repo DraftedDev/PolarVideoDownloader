@@ -1,6 +1,6 @@
 /**
  * Build using:
- * npx electron-packager C:\Users\Mikail\Desktop\Coding\JS\PolarVideoDownloader\build polarvideodownloader --platform=win32 --arch=ia32
+ * npx electron-packager C:\Users\Mikail\Desktop\Coding\JS\PolarVideoDownloader polarvideodownloader --platform=win32 --arch=ia32
  */
 
 const { app, BrowserWindow } = require('electron');
