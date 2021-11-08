@@ -16,7 +16,8 @@ Links to libraries PolarDownloader uses: <br>
 
 <br>
 
-How to use...
+<u>How to use...</u>
+
 <br>
 ...Soundcloud downloader:<br>
     1. Input the URL to the Soundcloud track in the input field above.<br>
