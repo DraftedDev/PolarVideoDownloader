@@ -15,7 +15,16 @@ function createWindow () {
     const win = new BrowserWindow({
       width: 1000,
       height: 800,
+      show: false,
       icon: 'resources/icon.png',
+      title: 'PolarVideoDownloader',
+      hasShadow: true,
+      /* Remove if debug */
+      devTools: false,
+      webgl: false,
+      websql: false,
+      enableWebSQL: false,
+
       webPreferences: {
         contextIsolation: false,
         nodeIntegration: true
@@ -23,4 +32,8 @@ function createWindow () {
     })
     win.removeMenu();
     win.loadFile('index.html')
+
+    win.once('ready-to-show', () => {
+      win.show();
+    })
 }
